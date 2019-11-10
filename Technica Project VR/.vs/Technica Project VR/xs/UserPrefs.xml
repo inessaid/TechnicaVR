@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{20DF186A-10BA-42DE-5D48-9AD8BFCEA1B8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ObjectBehavior.cs">
+    <Files>
+      <File FileName="Assets/NewBehaviourScript.cs" Line="10" Column="8" />
+      <File FileName="Assets/Scripts/ObjectBehavior.cs" Line="10" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Technica Project VR" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ObjectBehavior.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Technica Project VR" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="19060d71-2a86-415a-a57f-941aa7fe0005" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
