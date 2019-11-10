@@ -7,8 +7,12 @@ ScriptsOnlyBuild:
     - OVRConfig
     Oculus.VR.dll:
     - OVRCameraRig
+    - OVRDebugInfo
     - OVRHeadsetEmulator
     - OVRManager
+    - OVRPlayerController
+    - OVRSceneSampleController
+    - OVRScreenFade
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -32,6 +36,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
     - Class: 65
       Script: {instanceID: 0}
     - Class: 81
@@ -45,18 +51,28 @@ ScriptsOnlyBuild:
     - Class: 109
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9862}
+      Script: {instanceID: 9866}
     - Class: 114
-      Script: {instanceID: 9998}
+      Script: {instanceID: 10002}
     - Class: 114
-      Script: {instanceID: 10508}
+      Script: {instanceID: 10206}
     - Class: 114
-      Script: {instanceID: 10716}
+      Script: {instanceID: 10514}
     - Class: 114
-      Script: {instanceID: 11378}
+      Script: {instanceID: 10722}
     - Class: 114
-      Script: {instanceID: 11826}
+      Script: {instanceID: 10854}
+    - Class: 114
+      Script: {instanceID: 10958}
+    - Class: 114
+      Script: {instanceID: 11386}
+    - Class: 114
+      Script: {instanceID: 11476}
+    - Class: 114
+      Script: {instanceID: 11836}
     - Class: 115
+      Script: {instanceID: 0}
+    - Class: 143
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
