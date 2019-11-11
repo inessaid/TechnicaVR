@@ -3,6 +3,7 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - ONSPSettings
     - Oculus.Platform.PlatformSettings
+    - OvrAvatarSettings
     Oculus.VR.Editor.dll:
     - OVRConfig
     Oculus.VR.dll:
@@ -12,7 +13,6 @@ ScriptsOnlyBuild:
     - OVRManager
     - OVRPlayerController
     - OVRSceneSampleController
-    - OVRScreenFade
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -40,8 +40,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 65
       Script: {instanceID: 0}
-    - Class: 81
-      Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 104
@@ -59,11 +57,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10514}
     - Class: 114
+      Script: {instanceID: 10558}
+    - Class: 114
       Script: {instanceID: 10722}
     - Class: 114
       Script: {instanceID: 10854}
-    - Class: 114
-      Script: {instanceID: 10958}
     - Class: 114
       Script: {instanceID: 11386}
     - Class: 114
@@ -1417,6 +1415,18 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Rotator
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ObjectBehavior
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity

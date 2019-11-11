@@ -1,0 +1,6 @@
+*.meta
+*.bin
+*.log 
+*.info
+metadata/
+Temp/
