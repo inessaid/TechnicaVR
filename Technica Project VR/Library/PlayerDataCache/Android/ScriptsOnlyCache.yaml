@@ -3,12 +3,16 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - ONSPSettings
     - Oculus.Platform.PlatformSettings
+    - OvrAvatarSettings
     Oculus.VR.Editor.dll:
     - OVRConfig
     Oculus.VR.dll:
     - OVRCameraRig
+    - OVRDebugInfo
     - OVRHeadsetEmulator
     - OVRManager
+    - OVRPlayerController
+    - OVRSceneSampleController
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -32,9 +36,9 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
-    - Class: 65
+    - Class: 64
       Script: {instanceID: 0}
-    - Class: 81
+    - Class: 65
       Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
@@ -45,18 +49,28 @@ ScriptsOnlyBuild:
     - Class: 109
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9862}
+      Script: {instanceID: 9866}
     - Class: 114
-      Script: {instanceID: 9998}
+      Script: {instanceID: 10002}
     - Class: 114
-      Script: {instanceID: 10508}
+      Script: {instanceID: 10206}
     - Class: 114
-      Script: {instanceID: 10716}
+      Script: {instanceID: 10514}
     - Class: 114
-      Script: {instanceID: 11378}
+      Script: {instanceID: 10558}
     - Class: 114
-      Script: {instanceID: 11826}
+      Script: {instanceID: 10722}
+    - Class: 114
+      Script: {instanceID: 10854}
+    - Class: 114
+      Script: {instanceID: 11386}
+    - Class: 114
+      Script: {instanceID: 11476}
+    - Class: 114
+      Script: {instanceID: 11836}
     - Class: 115
+      Script: {instanceID: 0}
+    - Class: 143
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
@@ -1401,6 +1415,18 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Rotator
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ObjectBehavior
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
