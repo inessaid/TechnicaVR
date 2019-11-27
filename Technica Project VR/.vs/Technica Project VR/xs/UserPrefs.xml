@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ﻿<Properties StartupConfiguration="{20DF186A-10BA-42DE-5D48-9AD8BFCEA1B8}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ObjectBehavior.cs">
     <Files>
@@ -24,4 +25,33 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+=======
+﻿<Properties StartupConfiguration="{20DF186A-10BA-42DE-5D48-9AD8BFCEA1B8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AutoRotator.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Forward.cs" Line="32" Column="34" />
+      <File FileName="Assets/Scripts/AutoRotator.cs" Line="15" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Technica Project VR" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Rotator.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2c44eb51-7fb6-461c-84a5-7f19a9a91d09" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+>>>>>>> Stashed changes
 </Properties>

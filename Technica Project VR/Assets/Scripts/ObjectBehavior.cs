@@ -6,13 +6,13 @@ public class ObjectBehavior : MonoBehaviour
 {
     // private Getter getter;
     private Rotator rotator;
-    // private Forward forward;
+    private Forward forward;
 
     // Start is called before the first frame update
     void Start()
     {
         // moves the object forward
-        // forward = GetComponent<Forward>();
+        forward = GetComponent<Forward>();
 
         // rotates the object
         rotator = GetComponent<Rotator>();
