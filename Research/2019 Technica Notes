@@ -1,0 +1,56 @@
+2019 Technica
+
+Medical tutorial, classroom with exam table 
+
+Technology
+- Background: unity asset
+- Doctor: unity asset
+- Music: mp3 files downloaded from spotify 
+- Technica logo: c# in unity
+- Person: unity + blender objects
+- Object (organ, nerve, brain, etc) - blender
+- Backend store: Open Anatomy Atlas body parts, info
+
+Problem
+- High school students are having trouble learning anatomy (textbook based, no interactivity, boring, short attention span, expensive models)
+
+Target: high school students
+
+Solution: VR app for the human body 
+
+- No textbook, more interactive and engaging 
+- Accommodates a short attention span
+- Accommodates other learning styles 
+- Open-source model
+- Easily updatable model 
+- Oculus rift has multiple functions 
+- Less expensive Sony model
+
+Learning styles 
+- visual: human body models, text on screen
+- auditory: doctor speaks 
+- kinesthetic: touch / interact with the body parts 
+- social: multiplayer version (future)
+
+Technologies
+- Unity 2019.2.11 / C#
+- Blender
+- Git
+- Visual Studio 
+- Oculus Rift 
+- OpenStax Anatomy & Physiology 
+- NaturalReader 16
+
+I’m Anna and I worked on functionality for the human body objects, backend data, and audio files for the Technica VR app. I tested an initial female model in Unity using C#, wrote scripts to rotate and move organs, and collaborated on code with my teammates. I also pulled medical data from OpenStax Anatomy & Physiology and created audio files that auditory learners can hear playing inside the app when they explore human physiology. 
+
+I’m Sabrine and I worked on initial research of Unity models and the movement of human body objects, and learned a lot about C# in the process. The Unity assets included a test female body, systems, and helper robot to educate the VR user.
+
+I’m Ines and I worked on the VR app environment using Unity and C#. I created the medical room, assembled Unity models, and tested the user experience with an Oculus Rift. I also learned version control with Git to collaborate with my team!
+
+Final post 
+
+I attended Technica this past weekend, the international all-female hackathon and won the 
+hashtag
+#GoBeyond hack prize for our project! We developed a VR app that will help primary education students learn human anatomy through an interactive VR environment geared towards all learning-styles (not just textbook whizzes). 
+
+It was such a privilege working with these ladies! They were so dedicated and invested in both learning new technologies and pulling our project together. I felt so lucky to be a part of this experience, and can't wait for next year!
