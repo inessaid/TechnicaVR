@@ -10,3 +10,6 @@ technicAnatomy is a Virtual Reality application hosted on the Oculus Quest. It i
 * Unity3D - platform to build the VR environment
 * C# - driver for backend development
 * Blender - 3D models of human organs
+
+## Try it out
+[TechnicAnatomy website](http://google.com)
