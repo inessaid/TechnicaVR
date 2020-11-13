@@ -11,5 +11,12 @@ technicAnatomy is a Virtual Reality application hosted on the Oculus Quest. It i
 * C# - driver for backend development
 * Blender - 3D models of human organs
 
-## Try It Out!
-[TechnicAnatomy website](https://technicanatomy.wixsite.com/home)
+## Instructions
+* Clone the repo
+* Download and install [Unity Hub](https://unity3d.com/get-unity/download)
+* Open Unity Hub -> Installs -> Install Unity 2019.4.9 (or latest version)
+* Open the VR app in Unity
+* Follow these [instructions](https://gamedevdads.com/how-to-build-and-deploy-a-unity-app-to-an-android-device/) to run the TechnicaAnatomy app on your Android phone
+
+## Check out the website
+[TechnicAnatomy](https://technicanatomy.wixsite.com/home)
