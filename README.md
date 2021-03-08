@@ -1,4 +1,5 @@
 # TechnicaVR
+![gallery (1)](https://user-images.githubusercontent.com/43462511/110393693-0167c080-8039-11eb-8bbf-836841d1190d.jpg)
 
 ## Inspiration
 The inspiration behind this project is wanting to build something that can make a difference in the way students learn. We wanted to make something that can enhance a students learning experience by allowing them interact with the subject in a VR environment.
